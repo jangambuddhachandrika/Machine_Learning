@@ -23,7 +23,7 @@
 ### 🔹 Training Neural Network From Scratch
 - Fully connected neural network implemented using NumPy
 - Manual forward pass and backpropagation
-- Trained on synthetic datasets
+- Trained on MNIST datasets
 
 **Concepts:** Backpropagation, chain rule, parameter updates
 
