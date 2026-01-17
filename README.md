@@ -1,8 +1,5 @@
 #  Machine Learning From Scratch & Core Concepts
-
-This repository contains hands-on Jupyter notebooks that implement fundamental **Machine Learning and Neural Network concepts from scratch**, along with experiments comparing optimizers, activation functions, and regularization techniques.
----
-
+---------------------------------------------
 ## 📘 Notebook Descriptions
 
 ### 🔹 Linear Regression From Scratch
